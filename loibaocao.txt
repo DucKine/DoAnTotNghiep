@@ -1,0 +1,4 @@
+chỉnh lại bìa
+chỉnh lại tên chương
+vẽ lại usecase tổng quát
+sửa lại thiết kế cơ sở dữ liệu
